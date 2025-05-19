@@ -15,6 +15,6 @@ A lightweight and beginner-friendly password generator built using HTML, CSS, an
 ## 📂 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/akhilsoni04/simple-password-generator.git
+   git clone https://github.com/akhilsoni04/simple-password-maker.git
 2. Open index.html in your browser.
 3. Click the generate button to create a passwor
